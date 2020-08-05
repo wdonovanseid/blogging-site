@@ -1,0 +1,18 @@
+.intro {
+  text-align: left;
+  color: red;
+}
+
+.body {
+  text-align: center;
+  color: blue;
+}
+
+.aboutme {
+  text-align: right;
+  color: green;
+}
+
+body {
+  background-color: black;
+}
